@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>沙俞小窝</title>
-        <link>https://ShaYu-sharky.github.io/</link>
-        <description>Recent content on 沙俞小窝</description>
+        <title>读书笔记 on 沙俞小窝</title>
+        <link>https://ShaYu-sharky.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
+        <description>Recent content in 读书笔记 on 沙俞小窝</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>ShaYu-sharky</copyright>
-        <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ShaYu-sharky.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ShaYu-sharky.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>《当下的力量》读书笔记</title>
         <link>https://ShaYu-sharky.github.io/p/the-power-of-now/</link>
         <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
@@ -248,55 +248,6 @@ A --&amp;gt; B --&amp;gt; C
 &lt;li&gt;向量：把认知拉回来。&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        </item>
-        <item>
-        <title>归档</title>
-        <link>https://ShaYu-sharky.github.io/archives/</link>
-        <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://ShaYu-sharky.github.io/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>https://ShaYu-sharky.github.io/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://ShaYu-sharky.github.io/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;!-- This is a test page for i18n support. --&gt;</description>
-        </item>
-        <item>
-        <title>链接</title>
-        <link>https://ShaYu-sharky.github.io/%E9%93%BE%E6%8E%A5/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://ShaYu-sharky.github.io/%E9%93%BE%E6%8E%A5/</guid>
-        <description>&lt;!-- 
-To use this feature, add `links` section to frontmatter.
-
-This page&#39;s frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world&#39;s largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-``` --&gt;
-&lt;!-- 
-`image` field accepts both local and external images. --&gt;</description>
-        </item>
-        <item>
-        <title>搜索</title>
-        <link>https://ShaYu-sharky.github.io/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://ShaYu-sharky.github.io/search/</guid>
-        <description></description>
         </item>
         
     </channel>

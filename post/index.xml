@@ -1,351 +1,253 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Example Site</title>
-        <link>http://localhost:1313/post/</link>
-        <description>Recent content in Posts on Example Site</description>
+        <title>Posts on 沙俞小窝</title>
+        <link>https://ShaYu-sharky.github.io/post/</link>
+        <description>Recent content in Posts on 沙俞小窝</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
-        <copyright>Example Person</copyright>
-        <lastBuildDate>Mon, 07 Jul 2025 07:44:28 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Newnewnew</title>
-        <link>http://localhost:1313/p/newnewnew/</link>
-        <pubDate>Mon, 07 Jul 2025 07:44:28 +0800</pubDate>
+        <language>zh-cn</language>
+        <copyright>ShaYu-sharky</copyright>
+        <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ShaYu-sharky.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>《当下的力量》读书笔记</title>
+        <link>https://ShaYu-sharky.github.io/p/the-power-of-now/</link>
+        <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/newnewnew/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Markdown Syntax Guide</title>
-        <link>http://localhost:1313/p/markdown-syntax-guide/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/p/markdown-syntax-guide/</guid>
-        <description>&lt;img src="http://localhost:1313/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
-&lt;h2 id=&#34;headings&#34;&gt;Headings
-&lt;/h2&gt;&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
-&lt;h1 id=&#34;h1&#34;&gt;H1
-&lt;/h1&gt;&lt;h2 id=&#34;h2&#34;&gt;H2
-&lt;/h2&gt;&lt;h3 id=&#34;h3&#34;&gt;H3
-&lt;/h3&gt;&lt;h4 id=&#34;h4&#34;&gt;H4
-&lt;/h4&gt;&lt;h5 id=&#34;h5&#34;&gt;H5
-&lt;/h5&gt;&lt;h6 id=&#34;h6&#34;&gt;H6
-&lt;/h6&gt;&lt;h2 id=&#34;paragraph&#34;&gt;Paragraph
-&lt;/h2&gt;&lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p&gt;
-&lt;p&gt;Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.&lt;/p&gt;
-&lt;h2 id=&#34;blockquotes&#34;&gt;Blockquotes
-&lt;/h2&gt;&lt;p&gt;The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a &lt;code&gt;footer&lt;/code&gt; or &lt;code&gt;cite&lt;/code&gt; element, and optionally with in-line changes such as annotations and abbreviations.&lt;/p&gt;
-&lt;h4 id=&#34;blockquote-without-attribution&#34;&gt;Blockquote without attribution
-&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-&lt;strong&gt;Note&lt;/strong&gt; that you can use &lt;em&gt;Markdown syntax&lt;/em&gt; within a blockquote.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;h4 id=&#34;blockquote-with-attribution&#34;&gt;Blockquote with attribution
-&lt;/h4&gt;&lt;blockquote&gt;
-&lt;p&gt;Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;br&gt;
-— &lt;cite&gt;Rob Pike&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;h2 id=&#34;tables&#34;&gt;Tables
-&lt;/h2&gt;&lt;p&gt;Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Name&lt;/th&gt;
-          &lt;th&gt;Age&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Bob&lt;/td&gt;
-          &lt;td&gt;27&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Alice&lt;/td&gt;
-          &lt;td&gt;23&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 id=&#34;inline-markdown-within-tables&#34;&gt;Inline Markdown within tables
-&lt;/h4&gt;&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Italics&lt;/th&gt;
-          &lt;th&gt;Bold&lt;/th&gt;
-          &lt;th&gt;Code&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;em&gt;italics&lt;/em&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;code&gt;code&lt;/code&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;A&lt;/th&gt;
-          &lt;th&gt;B&lt;/th&gt;
-          &lt;th&gt;C&lt;/th&gt;
-          &lt;th&gt;D&lt;/th&gt;
-          &lt;th&gt;E&lt;/th&gt;
-          &lt;th&gt;F&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/td&gt;
-          &lt;td&gt;Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex.&lt;/td&gt;
-          &lt;td&gt;Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus&lt;/td&gt;
-          &lt;td&gt;Proin sit amet velit nec enim imperdiet vehicula.&lt;/td&gt;
-          &lt;td&gt;Ut bibendum vestibulum quam, eu egestas turpis gravida nec&lt;/td&gt;
-          &lt;td&gt;Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;code-blocks&#34;&gt;Code Blocks
-&lt;/h2&gt;&lt;h4 id=&#34;code-block-with-backticks&#34;&gt;Code block with backticks
-&lt;/h4&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;lang&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;charset&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Example HTML5 Document&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Test&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h4 id=&#34;code-block-indented-with-four-spaces&#34;&gt;Code block indented with four spaces
-&lt;/h4&gt;&lt;pre&gt;&lt;code&gt;&amp;lt;!doctype html&amp;gt;
-&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
-&amp;lt;head&amp;gt;
-  &amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
-  &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
-&amp;lt;body&amp;gt;
-  &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
-&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h4 id=&#34;code-block-with-hugos-internal-highlight-shortcode&#34;&gt;Code block with Hugo&amp;rsquo;s internal highlight shortcode
-&lt;/h4&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;lang&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;charset&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Example HTML5 Document&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Test&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;h4 id=&#34;diff-code-block&#34;&gt;Diff code block
-&lt;/h4&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-diff&#34; data-lang=&#34;diff&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[dependencies.bevy]
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git = &amp;#34;https://github.com/bevyengine/bevy&amp;#34;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rev = &amp;#34;11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13&amp;#34;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gd&#34;&gt;- features = [&amp;#34;dynamic&amp;#34;]
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gd&#34;&gt;&lt;/span&gt;&lt;span class=&#34;gi&#34;&gt;+ features = [&amp;#34;jpeg&amp;#34;, &amp;#34;dynamic&amp;#34;]
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h2 id=&#34;list-types&#34;&gt;List Types
-&lt;/h2&gt;&lt;h4 id=&#34;ordered-list&#34;&gt;Ordered List
-&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;First item&lt;/li&gt;
-&lt;li&gt;Second item&lt;/li&gt;
-&lt;li&gt;Third item&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&#34;unordered-list&#34;&gt;Unordered List
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;List item&lt;/li&gt;
-&lt;li&gt;Another item&lt;/li&gt;
-&lt;li&gt;And another item&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;nested-list&#34;&gt;Nested list
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;Fruit
+        <guid>https://ShaYu-sharky.github.io/p/the-power-of-now/</guid>
+        <description>&lt;img src="https://ShaYu-sharky.github.io/p/the-power-of-now/post/ReadingJournal/cowcowbird.jpg" alt="Featured image of post 《当下的力量》读书笔记" /&gt;&lt;h1 id=&#34;写在前面&#34;&gt;写在前面
+&lt;/h1&gt;&lt;p&gt;这不是一篇很严格的读书笔记。在看这本书的时候，个人的生活还在比较凌乱的状态，所以并不会像现在一样做结构化比较强的笔记。
+最原始的笔记是一种断断续续的随想：读到有所感悟和思考的地方，就会按照自己的理解和拓展的一点想法，写一段文字。而以下内容是我将这些在笔记本里躺了几个月的文字，按照一定的结构串起来，辅以过渡和扩写组织成的文字。
+因此，以下内容和我个人的理解可能和原书有一定的差异，请自行斟酌取舍。结构和内容，以及叙事顺序，都和原书有较大差异了。要理解作者本来的思想，还是得去读原书。&lt;/p&gt;
+&lt;p&gt;回顾过去，我看到自己走过的一段路：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Apple&lt;/li&gt;
-&lt;li&gt;Orange&lt;/li&gt;
-&lt;li&gt;Banana&lt;/li&gt;
+&lt;li&gt;抗拒、悔恨、不甘的一段混乱的岁月&lt;/li&gt;
+&lt;li&gt;放弃控制，享受一切（包括混乱），感受手中的力量，wield everything you have的感觉——每一粒红绿灯的像素都是那么鲜亮。&lt;/li&gt;
+&lt;li&gt;走向平和，毫不纠结的路上，一步步做着手里的事，也渐有积累（但不执着于积累）【还在努力中】
+这些文字，很大一部分也是在那段过渡时期写下的，算是间歇性的若有所悟了。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Dairy
+&lt;h1 id=&#34;正文&#34;&gt;正文
+&lt;/h1&gt;&lt;h2 id=&#34;基本模型诠释和应用&#34;&gt;基本模型诠释和应用
+&lt;/h2&gt;&lt;h3 id=&#34;监控模型&#34;&gt;监控模型
+&lt;/h3&gt;&lt;p&gt;这是我根据书中内容总结出的一个粗浅的关于意识、思维的模型，可以用它来帮助自己管理情绪、意识。最重要的是看到“我”并非是一个不可分的整体，而是由至少几个层级构成的具有有限能动性的有机体。
+Note that这里的结构不是实际的结构{如果考虑大脑实际的工作结构，会很复杂}，而是一种隐喻，用于帮助构建一个能更好自指【即能自我管理，看见自己，修改自己的参数】和自我管理的系统，指导 过上 一种更能抵御情绪波动的生活。至于取科学视角还是神秘学视角，取决于关注的问题和层面。不过对于（至少）最开始，不必使用过于复杂的大脑工作模型，简单的隐喻已经足够启发我们了。&lt;/p&gt;
+&lt;pre class=&#34;mermaid&#34;&gt;
+  graph TD
+A[觉知意识的意识]
+B[意识：觉察情绪，止息思维]
+C[思维：执着过去，寻求未来的满足]
+A --&amp;gt; B --&amp;gt;C
+&lt;/pre&gt;
+&lt;p&gt;从科学角度解释一下”临在“的话：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Milk&lt;/li&gt;
-&lt;li&gt;Cheese&lt;/li&gt;
+&lt;li&gt;思维是情绪和几乎被语言及别的符号占据的大脑活动，它一般不是在盘算就是欲望。&lt;/li&gt;
+&lt;li&gt;弱意识会隐式地感觉到自己存在，但通常是依赖于思维而有存在感。&lt;/li&gt;
+&lt;li&gt;而强意识可以在风浪中保持静止，拣择你不需要的情绪反应，有意识地进行大脑反应。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;other-elements--abbr-sub-sup-kbd-mark&#34;&gt;Other Elements — abbr, sub, sup, kbd, mark
-&lt;/h2&gt;&lt;p&gt;&lt;abbr title=&#34;Graphics Interchange Format&#34;&gt;GIF&lt;/abbr&gt; is a bitmap image format.&lt;/p&gt;
-&lt;p&gt;H&lt;sub&gt;2&lt;/sub&gt;O&lt;/p&gt;
-&lt;p&gt;X&lt;sup&gt;n&lt;/sup&gt; + Y&lt;sup&gt;n&lt;/sup&gt; = Z&lt;sup&gt;n&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&gt; + &lt;kbd&gt;ALT&lt;/kbd&gt; + &lt;kbd&gt;Delete&lt;/kbd&gt; to end the session.&lt;/p&gt;
-&lt;p&gt;Most &lt;mark&gt;salamanders&lt;/mark&gt; are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p&gt;
-&lt;h2 id=&#34;hyperlinked-image&#34;&gt;Hyperlinked image
-&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://google.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;img src=&#34;https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Google&#34;
-	
-	
-&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=PAAkCSZUG1c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;talk&lt;/a&gt; during Gopherfest, November 18, 2015.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</description>
-        </item>
-        <item>
-        <title>Placeholder Text</title>
-        <link>http://localhost:1313/p/placeholder-text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/p/placeholder-text/</guid>
-        <description>&lt;img src="http://localhost:1313/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
-&lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;
-&lt;li&gt;Duce pollice&lt;/li&gt;
-&lt;li&gt;Eris modo&lt;/li&gt;
-&lt;li&gt;Spargitque ferrea quos palude&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Comas hunc haec pietate fetum procerum dixit&lt;/li&gt;
-&lt;li&gt;Post torum vates letum Tiresia&lt;/li&gt;
-&lt;li&gt;Flumen querellas&lt;/li&gt;
-&lt;li&gt;Arcanaque montibus omnes&lt;/li&gt;
-&lt;li&gt;Quidem et&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 id=&#34;vagus-elidunt&#34;&gt;Vagus elidunt
-&lt;/h1&gt;&lt;p&gt;&lt;svg class=&#34;canon&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; overflow=&#34;visible&#34; viewBox=&#34;0 0 496 373&#34; height=&#34;373&#34; width=&#34;496&#34;&gt;&lt;g fill=&#34;none&#34;&gt;&lt;path stroke=&#34;#000&#34; stroke-width=&#34;.75&#34; d=&#34;M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515&#34;&gt;&lt;/path&gt;&lt;path stroke=&#34;#ED1C24&#34; stroke-width=&#34;.75&#34; d=&#34;M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z&#34;&gt;&lt;/path&gt;&lt;path stroke=&#34;#000&#34; stroke-width=&#34;.75&#34; d=&#34;M.479.375h495v372h-495zM247.979.875v372&#34;&gt;&lt;/path&gt;&lt;ellipse cx=&#34;498.729&#34; cy=&#34;177.625&#34; rx=&#34;.75&#34; ry=&#34;1.25&#34;&gt;&lt;/ellipse&gt;&lt;ellipse cx=&#34;247.229&#34; cy=&#34;377.375&#34; rx=&#34;.75&#34; ry=&#34;1.25&#34;&gt;&lt;/ellipse&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;The Van de Graaf Canon&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;mane-refeci-capiebant-unda-mulcebat&#34;&gt;Mane refeci capiebant unda mulcebat
-&lt;/h2&gt;&lt;p&gt;Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. &lt;strong&gt;Faces illo pepulere&lt;/strong&gt; tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.&lt;/p&gt;
-&lt;p&gt;Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.&lt;/p&gt;
-&lt;p&gt;Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong&gt;mitis temploque&lt;/strong&gt; vocatus, inque alis, &lt;em&gt;oculos nomen&lt;/em&gt; non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong&gt;parte&lt;/strong&gt;.&lt;/p&gt;</description>
-        </item>
-        <item>
-        <title>Math Typesetting</title>
-        <link>http://localhost:1313/p/math-typesetting/</link>
-        <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/p/math-typesetting/</guid>
-        <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
-&lt;p&gt;In this example we will be using &lt;a class=&#34;link&#34; href=&#34;https://katex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;KaTeX&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Create a partial under &lt;code&gt;/layouts/partials/math.html&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Within this partial reference the &lt;a class=&#34;link&#34; href=&#34;https://katex.org/docs/autorender.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Auto-render Extension&lt;/a&gt; or host these scripts locally.&lt;/li&gt;
-&lt;li&gt;Include the partial in your templates like so:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; or .Params.math .Site.Params.math &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; partial &lt;span class=&#34;s2&#34;&gt;&amp;#34;math.html&amp;#34;&lt;/span&gt; . &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; end &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;To enable KaTeX globally set the parameter &lt;code&gt;math&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in a project&amp;rsquo;s configuration&lt;/li&gt;
-&lt;li&gt;To enable KaTeX on a per page basis include the parameter &lt;code&gt;math: true&lt;/code&gt; in content files&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Use the online reference of &lt;a class=&#34;link&#34; href=&#34;https://katex.org/docs/supported.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Supported TeX Functions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;临在到底是更高级别的 觉知意识的意识，还是强意识，我也没弄清楚。不过如果只是隐喻，暂时我不需要弄得很清楚。姑且按我自己的想法来的话：临在就是那个觉知意识的意识，前者是提灯者，选择照亮何处；而后者是被照亮的舞台，思维{包括情绪}在上面得以呈现，被“意识到”，被看见，从而能被更好地进行反应{也可以静静看完演出}。
+如果要进行更细化的理解，可以参见元认知里的抑制管理和注意力管理。&lt;/p&gt;
+&lt;h4 id=&#34;为什么我们需要这些&#34;&gt;&lt;strong&gt;为什么我们需要这些？&lt;/strong&gt;
+&lt;/h4&gt;&lt;p&gt;因为我们过往的习惯、认知和心理结构的搭建都比较”随机“和混乱，drifting further everyday. 因为存在一个悖论：在你的自我意识水平没发展起来的时候，那些构建已经完成了。而这些搭建过程，几乎不由你自己控制，很大程度上取决于父母是否有意识吧，以及一点点运气成分。总之，随机性是很大的。那么里面一定存在了很多问题了，一般当问题出现时，心理学就认为我们“病了”，但是这些干预和治疗，很大程度上都还是一种依赖外部的方法。
+而临在的训练，就是为了提供一个自行检视和自己再构的机会，是给人开启自由之门的。作者想要告诉你的是：你并非（只）是你过往经历刻下的痕迹造就的小我，那些几乎都是由别人完成的“我”，都是一种虚假的自我，只是一些习惯和身份标签，而你可以打破枷锁，或者说你可以通过训练发现真正存在的自我——当你切实看到的时候，自由的意义才初现。&lt;/p&gt;
+&lt;h4 id=&#34;面对不悦的善巧&#34;&gt;面对不悦的善巧
+&lt;/h4&gt;&lt;p&gt;以面对烦人的噪音问题为例，如何让其不再“烦人”，私以为核心在于不要预设，不要过度期望，而是遇事皆以“可以解决”的信念见招拆招：&lt;/p&gt;
+&lt;pre class=&#34;mermaid&#34;&gt;
+  graph TD
 
-&lt;h3 id=&#34;examples&#34;&gt;Examples
-&lt;/h3&gt;&lt;p&gt;Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$&lt;/p&gt;
-&lt;p&gt;Block math:
-&lt;/p&gt;
-$$
- \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
-$$</description>
-        </item>
-        <item>
-        <title>Emoji Support</title>
-        <link>http://localhost:1313/p/emoji-support/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/p/emoji-support/</guid>
-        <description>&lt;img src="http://localhost:1313/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
-&lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;To enable emoji globally, set &lt;code&gt;enableEmoji&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in your site&amp;rsquo;s &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/getting-started/configuration/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙈&lt;/span&gt; &lt;code&gt;:see_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙉&lt;/span&gt; &lt;code&gt;:hear_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙊&lt;/span&gt; &lt;code&gt;:speak_no_evil:&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;http://www.emoji-cheat-sheet.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Emoji cheat sheet&lt;/a&gt; is a useful reference for emoji shorthand codes.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;N.B.&lt;/strong&gt; The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;.emoji {
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
+A[事件：改环境（比如离开）；切断渠道（面对噪音，可以戴耳塞）]
+B[心理理解：改变解释——取消”不该发生“的预设（正如我们对公平庇护的过度期待，造成了一些痛苦之身）]
+C[情绪反应]
+A --&amp;gt; B --&amp;gt; C
+&lt;/pre&gt;
+&lt;p&gt;实际上这个模型跟本书可能没多大关系，但的确是当时想到的，或许和现有的一些模型有重叠。就放这吧，觉得有用可以参考——它的价值仍然是看到一些事情并非“铁板一块”，而是可以分解后逐步解决的——你对问题的划分方式决定了可以干预的路径{比如情绪反应那里可以再拓展，但我们通常建议在势要起前进行控制}。&lt;/p&gt;
+&lt;h4 id=&#34;倾听&#34;&gt;倾听
+&lt;/h4&gt;&lt;p&gt;很多时候我们听别人讲话时，对自己的思维的注意力（或对方话语引起的思维）比对对方本体更多。
+我个人暂时只能从技术层面去解读这个意思：也就是说，对于弱意识水平的人来说，或者是元认知发展不够，缺乏一些监控机制，我们对于交流中的信息的关注是比较狭窄的。我们只能任由对方的话语，激起我们思维的反应，情绪的浪涌，而缺乏对两个人交流进程的监控，这是一种被动状态——我们到底在交流什么？彼此的情绪状态如何？他诉求的层面和我回应的层面匹配吗？
+一个典型的例子是，如果对方哪句话的感情色彩，或只是听者有意，匹配到了过去的创伤，我们便很容易把注意力都集中到这上面——而忘记了对话的目的了，这也是一些互联网吵架的原因所在。简言之，一次缺乏监控的对话，可能会因为言语的来往，而走向未知的方向。
+另外还有一种可能是，我们很容易去关注到“我”感兴趣的点，甚至盖过了对话本应有的意义。这也属于是小我的认同倾向起来了，在语言符号中去寻求自己的认同。&lt;/p&gt;
+&lt;h3 id=&#34;痛苦之身&#34;&gt;痛苦之身
+&lt;/h3&gt;&lt;p&gt;这是本书一个重要的概念。可以视为类似ptsd的另一种解释，但是这种解释却显得更有力量，更能让人愿意去改变。
+无意识状态下【这就是前面所说的 过往的自我构建是drifting的，没有强意识到自己在干什么的状态，统称为无”意识“。】，过往事件因思维解释而残存大脑的“能量场”，可以显式也可以隐式，待机而发。小我用于自我认同的消极情绪反应路径，它会被痛苦的感觉、复习冲突以及对痛苦的认同而“被喂养”，从而继续生存在脑子里——回忆和认同过往的苦痛，表面是一种痛苦，但深层却有一种奇特的爽感，像毒品一样，强化对一些糟糕经历相关的自我认同，会阻碍一个人的革新。
+这种喂养的发生，实质在于小我的认同，因为一般来说我们害怕自己的”连续性存在“被打破，而倾向于保持一种一致性，而不敢彻底否定和放下过往的经历。而且通常我们不能接受一些不好的事情发生在自己身上，因此会在再唤起时陷入执着。&lt;/p&gt;
+&lt;p&gt;临在的缺席构成了痛苦之身的生存空间（因为心理时间还在，沉浸在“过去“），从而控制了“我”。但只要（意识）照射它，就会消散。但会有一点延迟，好比思维的惯性一般。
+科学解释的话，是一些神经通路被再次激活，而产生了又一次的浪涌电流。如果不加干预，它会再次带来”痛苦“{因为又读取和按旧有方式再解释了一次}，并且更糟糕的在于神经通路会复习/强化，更不容易被新的模式替代。&lt;/p&gt;
+&lt;p&gt;只需认识和感受NOW，不评判，痛苦之身本身也只是受限于语言的指称，实无“痛苦”【很大程度是旧有解释的问题，但事实上现在可以有更好的解释。另一个是需要让情绪流过去，而不要强化认同】。想到害怕自己“时间”上无法延续，才会失调地让“我”执着于“痛苦”。意识认同这个小我，乃是一种错误。&lt;/p&gt;
+&lt;h3 id=&#34;执著于小我的幻象&#34;&gt;执著于小我的幻象
+&lt;/h3&gt;&lt;p&gt;基本是书中的观点了。
+先是谈及一些冲突的产生源头：比如不良情绪、争论、冲突。然后是点名了世俗生活的本质，以及为何我们总在“追求”。
+→恐惧：
+与生俱来的应对生存危机的身体反应。
+心理上因小我对接受自身消失这一现实的不能和不愿的”二级机制“，在本能的基础上，又增添了一层对现实的解释，还有日趋复杂的思维{故称”二级“，即人不断使用符号，以及在社会环境下对它的更复杂的解释}能够想到的更远期的未来焦虑。【社会生活的复杂程度早已不限于本能，所以它叠加了至少两层，产生比如羞耻感和被群体排斥的不能接受等。】&lt;/p&gt;
+&lt;p&gt;但这一切都是无意识形成的“想法”，并非颠扑不破的“权威”或”真理”，亦如心理疾病的产生，很多都是意识引导不足所致。&lt;/p&gt;
+&lt;p&gt;→其他冲突产生
+争胜、辩驳和战争（意识形态的冲突），都是思维为基础的感觉，感知“死去”的“威胁”。争辩来自于把自己的想法和自身紧联系，想法的错误和消亡会让小我有“死去”的感觉，因此要维护一致性，才能存续下去。意识形态需要证明自己是正确的，要打倒反对它的意识形态，才能让自己存续下去——因为这是它被更多人接受的前提。但是，人们经常忘记，政治是为人存在的，是为了解决社会治理而存在的。
+【某日谈到关于历史还是别的什么看法，我在想：如果有一些史实，以及逻辑推理原则，那么导出的结论一般来说不会有太多变化——那么有必要为“我的观点”争论吗？好像不用。“我”似乎是logos的“仆人”，而我们的争论只是为了接近它。“我”不重要。】&lt;/p&gt;
+&lt;p&gt;→小我对“圆满”的无休止追寻：
+用名利、特殊关系（比如亲密关系）和身份填补空虚感→不断产生新的思维，寻求“认同”。在这样一条不止息的链条上漂移，直至死亡带走一切。【或临终抱一念而足，撒手。比如拥有后代，可以作为自己（身份的自我）“完满”的标志，以及“我这一脉”还存在的告慰。】&lt;/p&gt;
+&lt;p&gt;若为独一生命赋一独立身份（思维所致），则生命的循环过程，或可称喜、悲等等——这就是我们所说生死的含义。
+但也可看作意识的不同外显，非独一，非非独一。&lt;/p&gt;
+&lt;h3 id=&#34;看到小我非我力求求真&#34;&gt;看到小我非我，力求求真
+&lt;/h3&gt;&lt;h4 id=&#34;臣服的力量&#34;&gt;臣服的力量
+&lt;/h4&gt;&lt;p&gt;实际这个翻译很容易让中文使用者反感{臣即不是君，给人一种低一等的感觉}，降低接受度。但是好像不好找别的词，或许“非对抗”“实受”“接纳”等更好。它即是说：不抗拒那些世俗层面定义的”坏事“，自愿松解抗争心态，将心理的抗拒化解后，即直面问题，用临在去观照它。&lt;/p&gt;
+&lt;p&gt;实则，好坏都是人划分的，于善巧来讲，好时可体会到美好；坏时，亦可借此逼迫小我消解，看到本质，逼迫停留在临在时刻【因为此时再无”未来“和”期待“可逃了，没有可以替代性地可能给你圆满的东西了。作者还举了一个例子就是极限运动，会给人一种高峰体验，就是因为逼迫人只能关注当下。同理，心流状态是否也有异曲同工之妙？】&lt;/p&gt;
+&lt;h4 id=&#34;不执著保持欣赏&#34;&gt;不执著，保持欣赏
+&lt;/h4&gt;&lt;p&gt;许多烦恼来自于对自我的不实际的认知和期望，抗拒的心态来自于期待自己能快速解决麻烦或这些麻烦“不应该”找上自己。但事实很简单：形体的”我”没有那么重要，他的存在来自于很多先于他存在的东西的意志推动——“我”非来自“我”，也非吾所愿。形体我的规定性很大程度上来自外部，而我只能决定自己的部分行动策略，以及自己的内部精神生活。
+故凡事有生灭，世事无常，莫要用外物来完成自我认同，莫抗拒应发生的和可能发生的事情。正如“我”的存在亦非吾愿一般，很多事情的发生也遵循外部规律，并非你我人力可为。学习规律，知晓边界，做一点事，就可以了，不必过于执著。而对这世界，不妨多些欣赏的态度，切莫过于关注“我”的得失——那只是上演的一幕剧罢了。
+我的形体我因外部活动而延续，继续出演着戏剧，但这只是我陪同众人的舞蹈。而真正的内核，在里面。&lt;/p&gt;
+&lt;p&gt;以上都属于是个人根据书中观点和思考总结出的基本模型，也提了一些想到的应用。总结如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;心智的工作是分层级的，或者我们可以按照不同的意识水平分出层级，更好地管理大脑的运作方式。&lt;/li&gt;
+&lt;li&gt;我们过往大多都经历了相当的随机建构时期，从而留下不少优化不足的结构，以及“痛苦之身”。我们应该去理解它们的由来、存在的形式，以及用更高级的意识去观照它们，修正它们，获得更加自由的心智。&lt;/li&gt;
+&lt;li&gt;“我”大多数时候是一种幻象，是一种对于自我连续性的执著，很多时候是一种认知失调，导致了对过往的执著。这种对小我的幻象的执著，会阻碍真正的进步。我们要以更高级的意识，那个相对于不断漂移的小我能在风浪中保持静止的临在，看破小我的虚妄，去求真。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;today-is-that-day&#34;&gt;Today is that day
+&lt;/h2&gt;&lt;p&gt;过去和未来都是你不可把握的：你可以从过去获取经验，也可以为未来打算，但改变只能从当下开始。心理学上讲，等待是不成熟心理导致的，是内心还在寻求全能感以逃避真正的对抗和矛盾。静止一处，企盼变化，是不可取的，你等不来爱情，当然也不可能因此开悟——想要外部生活状况的改变，需要到真正的实践中历练；而想要内心的改变，就要面对自己最糟糕阴暗的一面，要冒着自我（小我）被打碎的风险。&lt;/p&gt;
+&lt;h3 id=&#34;钟表时间和心理时间&#34;&gt;钟表时间和心理时间
+&lt;/h3&gt;&lt;p&gt;钟表或我们依赖外部物理发生的周期运动得来的计时，本是用于优化目标而存在的，不应把人上发条，让人一直处于被迫劳役的心理状态中。对于钟表时间的过于担忧和紧张，是一种强迫思维在时间上的体现。这也是一种自然的现象，毕竟我们都活在现代社会，被钟表指挥着步调进行着学习、工作和生活。当这些东西被植入多年成为习惯和生活中的”背景“时，它本质上是周期性机械运动这一点被我们忘记了，渐渐成为了一种固化的时间观念——大脑把它当成了一种实在的东西了。
+然而根本上，它没有那么重要。因为对于你来说，你自己的内部体验才是真实的，而非转圈的钟表——如果只是把很多事情填进24小时的一个个格子里，然后你自己只是经过，那么这样的”时间“对于你的生命体验而言，是否就缺少了很多呢？那么我们就不应该以”小时“来作为我们真正生命体验的计量。&lt;/p&gt;
+&lt;p&gt;另一方面，还有一个 心理时间 概念：大概是头脑思维造成的经验幻象。”我“错将思维的纠结过去和担忧未来的经验过程，当作实在的时间（线）。作者呼吁读者要看破幻象，回归当下，则内心的”实在时间“经验的幻象就会消失，痛苦失去立足之地——因为毕竟那些都是发生在”数据界“的一种激活【思维对过往记忆，或是神经通路的又一次激活】，而只有当下才是实实在在，是属于我们应该去体验的。&lt;/p&gt;
+&lt;p&gt;小结：以上的烦恼，一些来自于逃避当下{因评判现状不如意}，陷入麻木；另一些来自于被思维带走，忘记了要关注当下。&lt;/p&gt;
+&lt;h3 id=&#34;当下的价值&#34;&gt;当下的价值
+&lt;/h3&gt;&lt;p&gt;当下才是真实的，要体验当下，而非手段化/标签化当下【为过去辩白，或为未来铺路，只作为手段】。这与之前所想的“考研非黎明前黑暗论”是一致的，也就是上文说的内心逃避当下问题{虽然还在生活，但是心态上过于把这段时光标签化了}。&lt;/p&gt;
+&lt;p&gt;▷“考研非黎明前黑暗论”&lt;/p&gt;
+&lt;p&gt;即过去的某刻看到一些考研的同学，把它当成像高考一样的事情，态度是“牺牲一段正常生活”去换取考研的成功。那么这样的生活态度有什么问题吗？当然有。因为即便是成功了，你获得了之后的成果，但这段时间就好像并没有成为一段充满丰富体验的真实人生。更好的态度应该是，哪怕其中有焦虑的感觉，我们也好好去体验，这“付出的人生”也是我们人生的一部分——不应该逃避，也不应该压抑，不应该（只）拿它去“交换”一个成果。【如果联系”钟表时间“的问题，那么就是 不应该把生命体验的线性经验，折合成钟表时间，（只）去做一场（钟表）时间的交易。】&lt;/p&gt;
+&lt;p&gt;▷插叙完。&lt;/p&gt;
+&lt;p&gt;也就是强调——当下具有双重价值：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;人生体验的固有价值，即活着本身的价值&lt;/li&gt;
+&lt;li&gt;为过去补偿，为未来谋划付出的工具价值【即所谓外在目标】&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;实际上，体现着人作为目的和工具/手段存在的两面性。&lt;/p&gt;
+&lt;p&gt;如是，我们也将同时拥有两种目标：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;时间和空间中观察到的物理过程。这里面包含了个人的社会身份扮演和对所谓世俗成功的追求。&lt;/li&gt;
+&lt;li&gt;“一步之遥”的内心深度探索过程。只在当下发生，只能用心探索。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;真正能引起改变的地方就是当下&#34;&gt;真正能引起改变的”地方“，就是当下
+&lt;/h3&gt;&lt;p&gt;如前所述，我们将用自己的时间去追寻两个目标的话，若是只”利用时间“，则只能在时空中实现物理变化，而真正的内部变化不会发生，或者说很慢、很随机。若一个人要追求更大的内部变化，只有把握当下{并且不能只是当下的时间}。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;于世俗层面讲&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;时间的延长不会带来变化，只是会积累更多痕迹，有意或无意地&lt;/li&gt;
+&lt;li&gt;带来很明显变化的通常是一些偶发的刺激/新奇的“向量”，继承于他处或涌现于过往积累→注意力{大脑对于生活重点的注意或者是注意到了从未注意的东西}猛转向而生发。
+▷向量
+一种隐喻，指人的认知、心理被他遇到的事情、人和环境影响着。把他比作一叶孤舟，则这些影响，就像是随机散布的向量——而人行于茫茫大海中，被这些向量影响{更重的比喻是”拉扯“}，同时艰难地操控着自己的小船{自己也可以产生向量以实现转向，但需要积累和思考}。
+▷解释完&lt;/li&gt;
+&lt;li&gt;学习上，不全在于读了多少文字量的材料。读者自身的态度、材料的质量、脑子的激活程度都和效果有关，这决定一个人是否会在一个小圈里打转，一个坑里和泥。【比如只把一个人暴露在应试教育环境和给他压力，他的注意力就会很狭窄】用心至深，时机至切，则改变很大。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;于哲学层面讲&lt;/strong&gt;
+在他人划定的“时间轨道”上能走的，不是自己的路，我们找到安全感与否（或者这些都是虚词），路都得一步步走。未有一刻，能望着未来而到达未来，也绝无可能因眷恋/遗憾过去，而回到/重现过去。
+▷”时间轨道“
+一种隐喻，指一个人如果不自悟，则他就会被社会规训，或者跟从别人的生活模式，作为他人生的一种叙事，比如追求事业，建立家庭，拥有子女。并没有错，但这是一种从别处得来的，和钟表时间相关的一种线性叙事，是一种生活的轨道。
+▷解释完&lt;/p&gt;
+&lt;h3 id=&#34;不要等待&#34;&gt;不要等待
+&lt;/h3&gt;&lt;p&gt;Today is that day. 没有什么准备不准备&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;如果要准备，现在就准备&lt;/li&gt;
+&lt;li&gt;如果要思考，现在请思考&lt;/li&gt;
+&lt;li&gt;如果要睡觉，现在请睡觉
+放（搁置）即是逃，虑{陷入心理时间中}即是惘。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;把握当下，利用好自己的时间，但千万别只以（钟表）时间来生活——一是防止过度在意未来的安排，陷入焦虑，二是重视当下的体验。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;为何过度在意未来是错？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;将希望或自己生命的圆满寄托于未来是不正确的，因为变化的只有生活状况，而自我本质的改变相当小。而抱此想法也即着眼于外部，也就未能着眼自身改变了——也就是用力用错了地方。【可以在行动中（这是在时间中的）守一念以临在当下，兼顾两个目标。这也是作者提过的理想的行动状态，在别处也有修行者提过。】&lt;/li&gt;
+&lt;li&gt;这是一种“等靠要”思想，未来是不定的，而当下是我们确定拥有的。等一个未定之数，而忽略当下，无论于人生体验上，或是对于生活状况有所裨益的计划实施上，都非明智之举。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;借一位故人的话来具象化一种正确的态度就是：开心→工作→有钱→开心。&lt;/p&gt;
+&lt;p&gt;如果更生活的描述：若一种看法是把生活看作是一件件事情和它们的间隙组成的连续时间流，那么我建议不要这么去看——在那些所谓“间隙”，也请不要以某种逃避心态，来等待时间流淌，而是去体验之——请在等红绿灯时，也抬眼看看夕阳染出的云海色彩。&lt;/p&gt;
+&lt;h2 id=&#34;开悟&#34;&gt;开悟
+&lt;/h2&gt;&lt;h3 id=&#34;男性和女性的障碍&#34;&gt;男性和女性的障碍
+&lt;/h3&gt;&lt;p&gt;男性更多是被思维掌控的文化，男性被训练得更加屏蔽感受，更容易拒绝、攻击、不臣服，更理性，倾向于思维处理问题。&lt;/p&gt;
+&lt;p&gt;女性的障碍在于痛苦之身：比如女性认知到被压迫历史造成的身份认同、月经造成的愤怒而形成的认同等。&lt;/p&gt;
+&lt;p&gt;实际上，这些身份认同都是开悟的障碍。无论是历史叙事，还是意识形态话语，都无法真正帮助你找到自己，那根本不是你自己。&lt;/p&gt;
+&lt;p&gt;性别、性取向、父母、孩子……任何身份，都是思维带来的标签，一种简化的，在现实生活的形式化的分类。这些是为（它们语言符号）自己服务或是依外部运行而产生的东西，不是“我”。它们让人产生虚假的自我感——导致对立、孤立、恐惧、划分、攻击、战争。
+▷补充观点
+本是取方便的标签和分别，来帮助我们认知世界和处理现实问题的。但是如若不正确把握使用这些符号的边界的话， 就会被动地被符号牵着走——比如我们有时会分不清我们到底是在讨论问题，还是把自己也带入进去，进行站队式的对抗——这些都是符号把我们自己和他人都标签化的结果，让人陷入了语言的斗争之中。这常常让我们忘记自己到底在干什么，以及忘记对方也是一个立体而复杂的人——而在互联网上，因为看不见对方，交流几乎仅限于符号{发表情和斗图实际也是符号}，就更难以启发到大脑：注意不要过于激化矛盾{当面对一个我们不能搞清楚的问题，以及对方也是个（普通）人时}。
+▷补充完
+孤立才会恐惧死亡，而去争夺和杀戮。而语言由于其局限性，或者也可称思维的局限性，为了维持自身的存续，就要和对立的一方{局限性产生的对立}进行争斗。
+相当于，本是合一的世界，被符号/思维划分，而符号/思维反过来加强对立矛盾，在恐惧自身消失的动力推动下，进一步激化出更激烈的思维，导致了失控。【关键是，在这样的过程中，可能以符号试图去理解世界的努力也因为争斗失败了。本来矛盾与争辩，是为了越辩越明的。】&lt;/p&gt;
+&lt;h3 id=&#34;圣经解读&#34;&gt;圣经解读
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;妻子、油灯、丈夫的比喻：意识、临在、开悟。足够的油（意识）守住自己的临在（油灯），不要错过新郎（开悟）。&lt;/li&gt;
+&lt;li&gt;耶稣说话的时态，未有“出生”的意思，说明永恒真理不在时间之中，也不在无止境的时间中，而是在“无时间”中。&lt;/li&gt;
+&lt;li&gt;救世主，心灵导师的出现，也不要理解为过去、将来——等待或碰巧式的昭示和预言，而是“无时间”的外显。不要等待，不要依赖，不要向一个你因恐惧而错误地创造出的一个形式化的偶像祈祷。【我甚至自己都不太记得写这句话时，心里想到什么了，可能比言语能传达的更微妙。不过大概的意思就是，人不应去依赖寻找或等待，通过“接受洗礼”一样，获得真正的开悟——而是要亲历，可以有他人帮助，但是如果有依赖心理，很可能找到（又）一尊偶像。】光明能认出光明，若所怀并非大我，则多半只能寻见另一小我{虚假的老师}。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;本人没读过圣经，不能确定作者这些解读到底算什么。但是比起把里面的故事神圣化或原教旨地接收，我更能接受作者这个版本的解读。
+尤其对于心灵导师出现这段告诫，本人有一些类似的体会。从技术上讲一讲：
+我和其他人一样，之前总是在寻找，或者无意识地想要等待或者依靠别人能给自己指条明路，拉自己一把，或是一语点醒之类的，因为不自在和不安总是伴随着我们的生活嘛。但走过了那个阶段才发现，凡是这样的心态，都不能获得真正的改变——达到一定程度的强意识觉醒，不是一种可以教授的东西，或者说当你内心发愿和信念不对的时候，那些本该引导你登堂入室的话，你的理解也会出现偏差。【在我内心充满情绪时，别人把这本书放在我眼前，我拿起来看了，也照样放下了。而再次选择拿起它，已经是几个月之后了。同一本书，两种心态，天壤之别。】
+这样的信息/知识，或是智慧也好，并非是&lt;strong&gt;只&lt;/strong&gt;靠语言就能传递的——由于老师和学生的内在状态和心态差异太大，符号并不容易有效传达到。当然，我将来可能会尝试用符号做到这一点。&lt;/p&gt;
+&lt;h3 id=&#34;开悟的刺激&#34;&gt;开悟的刺激
+&lt;/h3&gt;&lt;p&gt;有时一些世俗层面的”坏事“可以成为开悟的契机。作者也谈到他的焦虑不安和抑郁状态促进了他自己某天突然的开悟体验，以及他谈到别的路径——比如极限运动，极度的痛苦——它们的共同点都是迫使一个人不能通过在心理时间中再去寻找任何替代物来缓解不能圆满的不安。&lt;/p&gt;
+&lt;p&gt;下面我列举其他可能的刺激，部分书中：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;多次失恋打击后，如果不是简单结论为“男/女人都是坏东西”。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;同性恋的现实生活困难，超越当下社会允许的事情的“跳脱”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;重大的价值观刺激，难以再将自己的不安用外部世界的追求暂时拖延。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;进入非显化生命的大门&#34;&gt;进入非显化生命的大门
+&lt;/h3&gt;&lt;p&gt;不执著于形式的身体、身份和认同，不批判，臣服，诚实地面对一切，不抗拒，不孤立，不区隔，感受内在能量场、内在身体【这个内在身体不会因为年龄的增长而呈现衰老】，体会未显化状态{就像经历的无梦睡眠一般，连意识都消失了}。当大门打开时， 作为感受和理解的合一态的爱会显现——爱不是大门，也不是应该刻意寻求之“物”。&lt;/p&gt;
+&lt;h3 id=&#34;无物&#34;&gt;无物
+&lt;/h3&gt;&lt;p&gt;作者提示读者，要好好去感受无物，但不是用思维，因为思考它就会显化而变成有物。做了个表格来总结其中提到的一些相对的概念。&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;空间（当然也是感受经验的外显结果，不是无物的空间）&lt;/td&gt;
+          &lt;td&gt;物体&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;意识&lt;/td&gt;
+          &lt;td&gt;思维&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;无物&lt;/td&gt;
+          &lt;td&gt;有物&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;宁静&lt;/td&gt;
+          &lt;td&gt;声音&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;to stand out&lt;/td&gt;
+          &lt;td&gt;to exist&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;其实这种感觉有点像弦理论：广大的是空间，而所谓物体只是其中显现的模式。周遭的一切都是那个独一的意识显化的结果，分别心使得它们不同，使得它们孤立甚至对立。那么所谓万物，都是一种如波纹一样的东西。止息思维后，才能感受到无物。&lt;/p&gt;
+&lt;h3 id=&#34;对待身体的态度&#34;&gt;对待身体的态度
+&lt;/h3&gt;&lt;p&gt;不折磨自己的身体，不否认喜悦和痛苦，（只）苦修无法抵达真理{《悉达多》里的情节}。“我”{思维或具备思考能力的“实体”}并不拥有身体{至少不可忽略身体本身规律的存在}。身体转变也是开悟的一个显象。&lt;/p&gt;
+&lt;p&gt;在关注手里工作时，也请与（内在）身体保持联结。宽恕和关注身体，不要被思维带走，这就是延年益寿和提高抵抗力的最廉价的方法了。相关练习比如：闭目塞听，收回注意力，不想，意识停留，意识在身体各部位circulate。&lt;/p&gt;
+&lt;h1 id=&#34;高阶视角&#34;&gt;高阶视角
+&lt;/h1&gt;&lt;p&gt;算是番外篇。这是开悟主题外想到的一些杂散内容。&lt;/p&gt;
+&lt;h2 id=&#34;语言选择跳脱话语&#34;&gt;“语言”选择，跳脱话语
+&lt;/h2&gt;&lt;p&gt;一言以蔽之：符号世界非真实，“地图非领土”。
+言出法随。我们的语言里，暗含了一些世界观，在使用时就受了影响。在我说“我”时，就带上了小我认同的痕迹。想起曾参加一个冥想的活动，导师选“普陀”作为我们一直自念的话，并且道出玄机——它无涵义，也可以选别的无实义的词。&lt;/p&gt;
+&lt;p&gt;向下想，则小我之上，还有更多更复杂（而“无必要”）的认同，也都藏在了语言中。简单说，我们的现代模式的心理，就框在这些语言中：比如家庭该是什么样子，对成功和失败的态度，对某个角色的态度，对罪犯（这个词一出口就有态度了）的态度。&lt;/p&gt;
+&lt;p&gt;不代表不用这些词了，只是意识到后，会知道何时用何处用，其边界于何处划分。从此不再偏颇地认为某个思维我是真我，错误地时刻要“捍卫”它至生死存亡的地步。&lt;/p&gt;
+&lt;p&gt;看到这些后有一个比较实用的好处：跳脱话语，直达实务。比如对一些人所犯的错误和缺点，你可以看到实在没有必要去污名化和把它完全当成“罪恶”，去做一些和身份挂钩的攻讦和纠缠——对宽恕他人，或者解决他人问题，或是拯救自己【比如受话语影响比较深的人，可能会发展到因为自己表现不佳就会自我攻击的地步】，都是大有帮助的。&lt;/p&gt;
+&lt;h2 id=&#34;斗争之不必要性&#34;&gt;斗争之不必要性
+&lt;/h2&gt;&lt;p&gt;这个想法是在看书过程中，一边吸收书里的想法【我们更加了解自己后，可以开发新的解决我们内心矛盾的模型】，同时又偶遇事件想到的：公园里看到两条被遛的狗，本来是要交朋友的，但是闻了闻不对味，就开始互相狂吠了。
+正如我们见动物间因一些小矛盾而不和、打架——那是我们认识到可以有交流的方法，有可以解决纠纷的途径，且有更好的制度可以选择——那么开悟者见世间纷争的无必要，也是类似的感觉。&lt;/p&gt;
+&lt;p&gt;反观人类社会：我们虽然完成了外部的转变，比如建立了制度和形成了公共道德等，但内部的可能还远远不够。拥有了语言和符号操纵的能力，问题就解决了吗？是的，原来的问题解决了。但是，正如宠物把气味的解读固化意义，且语言能力有限——它们就没法消除彼此的（虚假的）敌意。人也可能犯这些错误，只是以另一些形式表现罢了。&lt;/p&gt;
+&lt;p&gt;中产接受了良好的教育，有平和的成长环境；而下层却并非如此，这已经是参差了。而这个转变都不能称之为转变，而仅仅是形成的思维层面的反应机制不同。亦即，放他们到底层也一样难受，难以坚持他们原本的准则，非实质转变。只是相较而言，底层可能大脑损坏更严重一些【幼时的创伤影响比较深远，修复更难】&lt;/p&gt;
+&lt;p&gt;那么对于我们将要面对的更复杂的问题，认知灵活，跳出box的能力就尤为重要了。如果只是停留在已有的符号框限的世界里，我想我们是解决不了一些（本就是这样的世界里）产生的问题的。&lt;/p&gt;
+&lt;h2 id=&#34;佛经为宝&#34;&gt;佛经为宝
+&lt;/h2&gt;&lt;p&gt;因为每一有形体的有情生命终会走向终点，顺带也消失的是这个人的思维、财富等等。而佛经留下了后人可供参考的走向超越个体生命、思维的线索。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;路标：各种达到的境界，以及有何种效果&lt;/li&gt;
+&lt;li&gt;筏：一些可以借助的思想和行动的方法&lt;/li&gt;
+&lt;li&gt;向量：把认知拉回来。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
         </item>
         
     </channel>
