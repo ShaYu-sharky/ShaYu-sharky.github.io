@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ShaYu-sharky.github.io/</loc>
-    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,11 +15,8 @@
                 href="https://ShaYu-sharky.github.io/"
                 />
   </url><url>
-    <loc>https://ShaYu-sharky.github.io/p/the-power-of-now/</loc>
-    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ShaYu-sharky.github.io/categories/</loc>
-    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -31,10 +28,19 @@
                 href="https://ShaYu-sharky.github.io/categories/"
                 />
   </url><url>
-    <loc>https://ShaYu-sharky.github.io/page/</loc>
+    <loc>https://ShaYu-sharky.github.io/post/</loc>
+    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ShaYu-sharky.github.io/categories/%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ShaYu-sharky.github.io/p/new/</loc>
+    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ShaYu-sharky.github.io/p/the-power-of-now/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ShaYu-sharky.github.io/post/</loc>
+    <loc>https://ShaYu-sharky.github.io/page/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ShaYu-sharky.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
