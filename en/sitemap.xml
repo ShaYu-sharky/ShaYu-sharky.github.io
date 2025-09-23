@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ShaYu-sharky.github.io/en/categories/</loc>
+    <loc>https://shayu-sharky.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://ShaYu-sharky.github.io/categories/"
+                href="https://shayu-sharky.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ShaYu-sharky.github.io/en/categories/"
+                href="https://shayu-sharky.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://ShaYu-sharky.github.io/en/</loc>
+    <loc>https://shayu-sharky.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://ShaYu-sharky.github.io/"
+                href="https://shayu-sharky.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ShaYu-sharky.github.io/en/"
+                href="https://shayu-sharky.github.io/en/"
                 />
   </url><url>
-    <loc>https://ShaYu-sharky.github.io/en/tags/</loc>
+    <loc>https://shayu-sharky.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://ShaYu-sharky.github.io/tags/"
+                href="https://shayu-sharky.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ShaYu-sharky.github.io/en/tags/"
+                href="https://shayu-sharky.github.io/en/tags/"
                 />
   </url>
 </urlset>

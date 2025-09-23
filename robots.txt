@@ -1,3 +1,1 @@
 User-agent: *
-Allow: /
-Sitemap: https://shayu-sharky.github.io/sitemap.xml

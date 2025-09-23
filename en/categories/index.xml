@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Shark Den</title>
-        <link>https://ShaYu-sharky.github.io/en/categories/</link>
+        <link>https://shayu-sharky.github.io/en/categories/</link>
         <description>Recent content in Categories on Shark Den</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>ShaYu-sharky</copyright><atom:link href="https://ShaYu-sharky.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>ShaYu-sharky</copyright><atom:link href="https://shayu-sharky.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
